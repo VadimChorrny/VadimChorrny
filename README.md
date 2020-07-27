@@ -1,12 +1,11 @@
+## About Me 📝
+Hello, I'm a  16 year programmer from Ukraine.
 
+## Projects 🖥️ </>
 
-### Feel free to contact me on [facebook]( https://www.facebook.com/vadim.chorny.31/"Press") and [twitter]( https://twitter.com/Vadim50983713 "Press")
-#                               #
+**[BLACK KLONDIKE](https://github.com/VadimChorrny/VadimChorrny.github.io) - A service that helps beginner programmers** <br>
 
-#### - 🔭 I’m currently working on [BLACK KLONDIKE Service]( http://vadimchorrny.github.io/ "Press")
-
-- 🌱 I’m currently learning JavaScript, C++ and English language.
-- 😄 Pronouns: I am ready to work on the project for free, but only if it is interesting
-
-
- 
+## Contact Me 📱
+**Twitter  - [@Vadim50983713](https://twitter.com/Vadim50983713)** <br>
+**Discord  - Falcon#4002** <br>
+**Facebook - [vadim.chorny.31](https://www.facebook.com/vadim.chorny.31/)** <br>
