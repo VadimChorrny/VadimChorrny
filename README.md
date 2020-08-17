@@ -3,7 +3,7 @@ Hello, I'm a  16 year programmer from Ukraine 🏳‍🌈.
 
 ## Projects 🖥️ </>
 
-**[BLACK KLONDIKE](https://github.com/VadimChorrny/VadimChorrny.github.io) - 🔥A service that helps beginner programmers😍  <br>
+**[BLACK KLONDIKE](https://vadimchorrny.github.io/) - 🔥A service that helps beginner programmers😍  <br>
 [DEV-HUB](https://discord.gg/rsutRf) - 💎Discord server for programmers💎  <br>
 [STAR WARS] - 🚀Unfortunately, still in development🙂** <br> 
 
