@@ -1,10 +1,12 @@
 ## About Me 📝
 Hello, I'm a  16 year programmer from Ukraine 🏳‍🌈.
 
-## Projects 🖥️ </>
+## Skills 🖥️ </>
 
 
-[DEV-HUB](https://discord.gg/rsutRf) - 💎Discord server for programmers💎  <br>
+  - HTML,CSS,SASS,SCSS,LESS,bEM
+  - JavaScript,jQuery,React,Bootstrap
+  - MERN Stack (slightly)
 
 
 ## Contact Me 📱
