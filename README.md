@@ -4,7 +4,7 @@ Hello, I'm a  16 year programmer from Ukraine 🏳‍🌈.
 ## Skills 🖥️ </>
 
 
- #  - HTML,SCSS,BEM
+ #  - HTML,CSS,BEM (and preprocessor)
  #  - JavaScript,jQuery,React,Bootstrap
  #  - MERN Stack (slightly)
 
