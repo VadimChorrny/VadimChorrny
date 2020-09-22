@@ -1,5 +1,5 @@
 ## About Me 📝
-Hello, I'm a  16 year programmer from Ukraine 🏳‍🌈.
+Hello, I'm a  16 year programmer from Ukraine 🌈.
 
 ## Skills 🖥️ </>
 
