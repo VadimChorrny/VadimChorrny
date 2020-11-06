@@ -1,5 +1,5 @@
 ## About Me 📝
-Hello, I'm a  16 year programmer from Ukraine 🌈.
+Hello, I'm a programmer from Ukraine 🌈.
 ## Contact Me 📱
 **Twitter  - [@Vadim50983713](https://twitter.com/Vadim50983713)** <br>
 **Discord  - Falcon#4002** <br>
