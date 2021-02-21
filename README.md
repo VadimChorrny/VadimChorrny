@@ -20,4 +20,4 @@ My name is Vadim and I'm a software engineer. I'm from Ukraina, living in 🏙Ri
 
 <br />
 
-## <img src="https://github.com/VadimChorrny/VadimChorrny/blob/master/cat.gif" width="25px">
+## <img src="https://github.com/VadimChorrny/VadimChorrny/blob/master/cat.gif" width="250px">
