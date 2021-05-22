@@ -1,23 +1,18 @@
-## ✨ Hi there! 
+### 👋 Sub!
+If you have any comments or questions, please write to my telegram (@chorrny), thanks!
++ If we talk about me, then:
+    + Learning English: My current level B1.
+    + Favorite films - wolf with wall street, marvel, dc
++ My contacts:
+    + Telegram: @chorrny
+    + [Instagram](https://www.instagram.com/chorrny/ "Instagram")
+    + E-mail: chorrny228@gmail.com
 
-My name is Vadim and I'm a software engineer. I'm from Ukraina, living in 🏙Rivne. 
+### 🎧 Now listenig to:
+[<img src="https://kanamonogatari.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/iwzw7mu8kbeqszm8lc7jn88xk)
+<br/><br/>
+[<img src="https://www.codewars.com/users/KanaMonogatari/badges/large">](https://www.codewars.com/users/KanaMonogatari)
 
-### 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
-
-### 📈 GitHub Stats
-<p align="center">
-  <table>
-  <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=extremecodetv&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimChorrny&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-  </tr>   
-</table>
-</p>
-
-<br />
-
-## <img src="https://github.com/VadimChorrny/VadimChorrny/blob/master/feynman.png" width="500px">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanaMonogatari&show_icons=true&theme=tokyonight)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanaMonogatari&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
