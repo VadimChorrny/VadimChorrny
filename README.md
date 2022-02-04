@@ -12,4 +12,4 @@ If you have any comments or questions, please write to my telegram thanks!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimChorrny&show_icons=true&theme=tokyonight)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimChorrny&layout=compact&theme=tokyonight)](https://github.com/VadimChorrny/github-readme-stats)
 
-![Snake animation](https://github.com/VadimChorrny/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VadimChorrny/vc09122003/blob/output/github-contribution-grid-snake.svg)
