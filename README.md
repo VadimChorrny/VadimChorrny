@@ -1,8 +1,5 @@
 ### 👋 Sub!
-If you have any comments or questions, please write to my telegram (@chorrny), thanks!
-+ If we talk about me, then:
-    + Learning English: My current level B1.
-    + Favorite films - wolf with wall street, marvel, dc
+If you have any comments or questions, please write to my telegram thanks!
 + My contacts:
     + Telegram: @chorrny
     + [Instagram](https://www.instagram.com/chorrny/ "Instagram")
@@ -13,4 +10,6 @@ If you have any comments or questions, please write to my telegram (@chorrny), t
 <br/><br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimChorrny&show_icons=true&theme=tokyonight)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimChorrny&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimChorrny&layout=compact&theme=tokyonight)](https://github.com/VadimChorrny/github-readme-stats)
+
+![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
