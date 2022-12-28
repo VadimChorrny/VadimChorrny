@@ -4,20 +4,20 @@
 </div>  
   
 
-### <div align="center">I'm Vadym, a full-time full-stack freelance developer 👨‍💻</div>  
+### <div align="center">I'm Vadym, a HTML developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Freelance](https://freelancehunt.com/freelancer/chorrny.html)  
+🔭 I work both with the client side and on the server side (sometimes) 
   
 
-- 🌱 I’m currently learning Web3  
+🌱 Development of projects from scratch, adding new features to the project, as well as project support
   
+👨🏻‍💻 I am a software engineer with professional experience in Web UI development. <br/>
+😇  Worked with customers from USA and Ukraine.
+   My practical knowledge of the most popular modern front-end technologies, such as React and Redux, allowed me to
+   participate in projects where I managed to extend my experience with requirements gathering and customer
+   communication.
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 
