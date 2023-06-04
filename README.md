@@ -1,9 +1,6 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua/)
 
-👨🏻‍💻 I am a software engineer with professional experience in Web development. <br/>
-😇  Worked with customers from USA and Ukraine.
-   My practical knowledge of the most popular modern front-end technologies, such as React and Redux, allowed me to
-   participate in projects where I managed to extend my experience with requirements gathering and customer
-   communication.
+
+👨🏻‍💻 I am a software engineer specializing in web development. Currently, I am actively involved in various projects where I utilize my expertise in Next.js, TypeScript, and GraphQL. Through my professional experience, I have had the opportunity to collaborate with clients from both the USA and Ukraine. Working with popular modern front-end technologies such as React and Redux, I have honed my skills in requirements gathering and effective customer communication.
 
 [Twitter]([https://twitter.com/roman01la](https://twitter.com/byteplusplus)) | [Telegram](https://t.me/vadym_chornyi)
